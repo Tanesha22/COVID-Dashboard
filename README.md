@@ -1,3 +1,3 @@
 # COVID-Dashboards
-Contains Code for Dashboard/school-dashboard cleaning
-Contains apps for school and spanish and english dashboards.
+Contains Code for Dashboard/school-dashboard cleaning scripts.
+Contains apps for school, spanish and english dashboards.
